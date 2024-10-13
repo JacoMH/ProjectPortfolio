@@ -28,3 +28,15 @@ Route::get('/skills', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/projects/gif-maker', function () {
+    return view('projects/gif-maker');
+});
+
+Route::get('/projects/EER', function () {
+    return view('projects/EER');
+});
+
+Route::get('/projects/Social-Media', function () {
+    return view('projects/Social-Media');
+});
