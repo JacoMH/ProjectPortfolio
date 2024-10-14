@@ -1,4 +1,4 @@
-<section class='flex flex-row justify-between'>
+<section class='flex flex-row  justify-end'>
             <div class='p-3 max-w-[700px] pr-4'>
                 <a href='{{ url('/') }}' class='{{ request()->is('/') ? 'bg-indigo-200' : '' }}'>Welcome</a>
                 <a href='{{ url('portfolio') }}' class='{{ request()->is('portfolio', 'projects/gif-maker', 'projects/EER', 'projects/Social-Media') ? 'bg-indigo-200' : '' }}'>Portfolio</a>
