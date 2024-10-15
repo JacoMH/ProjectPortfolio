@@ -1,5 +1,5 @@
 <x-visitor>
-    <div class='text-5xl text-center text-blue-500 mb-12 mt-[60px]'>Social Media</div>
+    <div class='text-5xl text-center text-blue-500 mb-12 mt-[60px]'>EER</div>
     
     <div class='flex justify-center'>
         <!-- image of UI -->

@@ -44,7 +44,7 @@
                 <li class="ms-4 mb-10 flex">
 
                     <div>
-                        <img class=' mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg'></img>
+                        <img class=' mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='{{asset('Social-Media\User Profile Page.png')}}'></img>
                     </div>
 
                     <div>
