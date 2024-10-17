@@ -37,6 +37,6 @@ Route::get('/projects/EER', function () {
     return view('projects/EER');
 });
 
-Route::get('/projects/Social-Media', function () {
-    return view('projects/Social-Media');
+Route::get('/projects/Blog-Platform', function () {
+    return view('projects/Blog-Platform');
 });

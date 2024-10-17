@@ -44,15 +44,15 @@
                 <li class="ms-4 mb-10 flex">
 
                     <div>
-                        <img class=' mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='{{asset('Social-Media\User Profile Page.png')}}'></img>
+                        <img class=' mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='{{asset('Blog-Platform\User Profile Page.png')}}'></img>
                     </div>
 
                     <div>
                         <div class="absolute w-3 h-3 bg-blue-500 rounded-full mt-1.5 -start-1.5 border border-blue-700 dark:border-blue-900 dark:bg-blue-700 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out"></div>
                         <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2024</time>
-                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Social Media Platform</h3>
-                        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">In my first large scale project, I built a social media platform using just PHP, CSS and some JavaScript. No libraries or frameworks were used.</p>
-                        <a href="{{url('/projects/Social-Media')}}" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-100 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">Project <svg class="w-3 h-3 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                        <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Blog Platform</h3>
+                        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">In my first large scale project, I built a Blog Platform using just PHP, CSS and some JavaScript. No libraries or frameworks were used.</p>
+                        <a href="{{url('/projects/Blog-Platform')}}" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-100 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">Project <svg class="w-3 h-3 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
                           </svg></a>
                     </div>
