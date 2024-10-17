@@ -1,15 +1,16 @@
 <x-visitor>
-
-    <section class='flex flex-col h-screen' >
+    <div class="absolute inset-0 -z-10 h-full w-full bg-white">
+        <div class="absolute inset-0 bg-[radial-gradient(circle_800px_at_100%_200px,rgba(101,126,235,0.5),transparent)]"></div>
+        <div class="absolute inset-0 bg-[linear-gradient(to_bottom,transparent,white 80%)]"></div>
+        <div class="absolute inset-0 bg-[linear-gradient(to_right,#f0f0f0_1px,transparent_1px),linear-gradient(to_bottom,#f0f0f0_1px,transparent_1px)] bg-[size:6rem_4rem]"></div>
+    </div>
+    <section class='flex flex-col h-screen justify-center' >
         <div class='text-center'>
-            <section class='mr-auto'>
-                <div class='text-5xl text-blue-500 mb-12 mt-[60px]'>
-                    Jacob Heyes
-                </div>
-            </section>
-
             <section class='flex flex-row justify-center mr-10'>
-                <div class='text-left ml-12 text-lg leading-relaxed text-gray-700 content-center max-w-[400px]'>
+                <div class=' align-middle text-left ml-12 text-lg leading-relaxed text-gray-700 content-center max-w-[400px]'>
+                    <div class='text-5xl text-gray-700 mb-12 mt-[60px]'>
+                        Hello, my name is <span class='text-blue-500'>Jacob Heyes.</span>
+                    </div>
                     I am
                     a 2nd year <span class='text-blue-500'>Software Engineering</span> student studying at <a class='text-blue-500 hover:scale-105 hover:underline' href='https://www.shu.ac.uk/' target='_blank' rel="noreferrer noopener">Sheffield Hallam University.</a>
                     This is a <span class='text-blue-500'>self-made</span> website to display my knowledge of the field 

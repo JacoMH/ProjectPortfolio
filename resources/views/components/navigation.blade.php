@@ -1,10 +1,16 @@
-<section class='flex flex-row  justify-end'>
-            <div class='p-3 max-w-[700px] pr-4'>
-                <a href='{{ url('/') }}' class='{{ request()->is('/') ? 'bg-indigo-200' : '' }}'>Welcome</a>
-                <a href='{{ url('portfolio') }}' class='{{ request()->is('portfolio', 'projects/gif-maker', 'projects/EER', 'projects/Social-Media') ? 'bg-indigo-200' : '' }}'>Portfolio</a>
-                <a href='{{ url('skills')}}' class='{{ request()->is('skills') ? 'bg-indigo-200' : '' }}'>Skills</a>
-                <a href='{{ url('contact')}}' class='{{ request()->is('contact') ? 'bg-indigo-200' : '' }}'>Contact</a>
-            </div>
+<section class='flex bg-gray-100 shadow-lg p-4'>
+    <div class='flex space-x-6 max-w-[700px] justify-between'>
+        <a href='{{ url('/') }}' class='{{ request()->is('/') ? "bg-blue-500 text-white" : "text-gray-700 hover:text-blue-500" }} transition-colors duration-200 px-3 py-2 rounded-md font-semibold'>
+            Welcome
+        </a>
+        <a href='{{ url('portfolio') }}' class='{{ request()->is('portfolio', 'projects/Blog-Platform', 'projects/EER', 'projects/Social-Media', 'projects/gif-maker') ? "bg-blue-500 text-white" : "text-gray-700 hover:text-blue-500" }} transition-colors duration-200 px-3 py-2 rounded-md font-semibold'>
+            Portfolio
+        </a>
+        <a href='{{ url('skills')}}' class='{{ request()->is('skills') ? "bg-blue-500 text-white" : "text-gray-700 hover:text-blue-500" }} transition-colors duration-200 px-3 py-2 rounded-md font-semibold'>
+            Skills
+        </a>
+        <a href='{{ url('contact')}}' class='{{ request()->is('contact') ? "bg-blue-500 text-white" : "text-gray-700 hover:text-blue-500" }} transition-colors duration-200 px-3 py-2 rounded-md font-semibold'>
+            Contact
+        </a>
+    </div>
 </section>
-
-
