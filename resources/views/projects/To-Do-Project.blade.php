@@ -1,7 +1,7 @@
 <x-visitor>
     <div class='text-5xl text-center text-blue-500 mb-12 mt-[60px]'>EER</div>
     <section class='container m-auto px-5'>
-            <div class='flex sm:justify-between sm:flex-row flex-col'>
+            <div class='flex md:justify-between sm:flex-col'>
                 <!-- image of UI -->
                 <div>
                     <img class='mb-10 my-3 max-w-[450px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src="{{asset('gif-maker\Screenshot 2024-10-14 142644.png')}}"></img>        

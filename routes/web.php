@@ -40,3 +40,7 @@ Route::get('/projects/EER', function () {
 Route::get('/projects/Blog-Platform', function () {
     return view('projects/Blog-Platform');
 });
+
+Route::get('/projects/To-Do-Project', function () {
+    return view('projects/To-Do-Project');
+});
