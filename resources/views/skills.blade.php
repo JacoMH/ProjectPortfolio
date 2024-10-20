@@ -1,7 +1,6 @@
 <x-visitor>
     
     <div class="p-6 text-gray-900 flex-wrap flex justify-center items-center">
-        <div class="flex flex-row gap-5">
             <div class='max-w-[350px] m-5 rounded-lg'>
                 <div class="flex items-center">
                     <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0,0,256,256">
@@ -31,7 +30,6 @@
                 </div>
                 <p class="mt-4 text-gray-700 text-sm leading-relaxed">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vehicula libero sit amet elit hendrerit, ac ullamcorper felis faucibus. Donec fringilla ligula at libero efficitur scelerisque.</p>
             </div>
-        </div>
     </div>
     
     <div class="p-6 text-gray-900 flex-wrap flex justify-center items-center">

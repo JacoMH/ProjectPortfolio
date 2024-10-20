@@ -1,5 +1,5 @@
 <x-visitor>
-    <div class='text-5xl text-center text-blue-500 mb-12 mt-[60px]'>EER</div>
+    <div class='text-5xl text-center text-blue-500 mb-12 mt-[60px]'>To-Do List And Task Project</div>
     <section class='container m-auto px-5'>
             <div class='flex md:justify-between sm:flex-col'>
                 <!-- image of UI -->
