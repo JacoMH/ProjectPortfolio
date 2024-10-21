@@ -44,3 +44,7 @@ Route::get('/projects/Blog-Platform', function () {
 Route::get('/projects/To-Do-Project', function () {
     return view('projects/To-Do-Project');
 });
+
+Route::get('/projects/Cantor-College', function () {
+    return view('projects/Cantor-College');
+});

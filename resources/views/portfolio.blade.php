@@ -71,13 +71,13 @@
                     <div class="absolute w-3 h-3 bg-blue-500 rounded-full mt-1.5 -start-1.5 border border-blue-700 dark:border-blue-900 dark:bg-blue-700 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out"></div>
                     <div class='flex flex-col sm:flex-row'>
                         <div class='flex justify-center'>
-                            <img class='w-full mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='{{asset('r-p-s/Screenshot 2024-07-26 190809.png')}}'>
+                            <img class='w-full mx-10 my-3 max-w-[350px] rounded-lg shadow-lg ring-4 ring-blue-500 ring-opacity-50 ring-offset-2 ring-offset-blue-200 hover:ring-opacity-100 hover:ring-offset-4 hover:scale-105 transition-all duration-300 ease-in-out' src='{{asset('Cantor-College\home page.png')}}'>
                         </div>
                         <div class='flex flex-col text-center items-center sm:text-start sm:items-start sm:ml-3 w-full flex-wrap sm:w-auto sm:max-w-[600px]'>
                             <time class="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">March 2023</time>
                             <h3 class="text-2xl font-semibold text-blue-500 dark:text-white">Rock, Paper, Scissors</h3>
                             <p class="flex-wrap mb-4 text-base font-normal text-gray-500 dark:text-gray-400">A basic Rock, Paper, Scissors game I created to practise programming in C#.</p>
-                            <a href="{{url('/projects/RPS')}}" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-100 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">More Detail</a>
+                            <a href="{{url('/projects/Cantor-College')}}" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-100 focus:text-blue-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700">More Detail</a>
                         </div>
                     </div>
                 </li>
